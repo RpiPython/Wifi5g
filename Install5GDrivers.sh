@@ -5,9 +5,9 @@ echo "Ingeniaritza Denontzako -5G wifi-"
 #2.- ./mi-primer-script.sh
 
 # Actualizamos la Raspberry
-#sudo apt update
-#sudo apt upgrade
-#sudo apt autoremove
+sudo apt update
+sudo apt upgrade
+sudo apt autoremove
 
 
 #Downloads the installation file
